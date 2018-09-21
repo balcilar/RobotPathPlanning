@@ -28,7 +28,9 @@ endp=[29, 20];
 Then we tested that 102 number of noded graph path planning via Dijkstra, Astar and Dynamic Programming. Here is the all three methods' planned path and their costs.
 
 <p align="center">
-  <img src="Output/astar.jpg" width="300"/>  
-  <img src="Output/dijkstra.jpg" width="300"/>  
-  <img src="Output/dynamic.jpg" width="300"/> 
+  <img src="Output/astar.jpg" width="270"/>  
+  <img src="Output/dijkstra.jpg" width="270"/>  
+  <img src="Output/dynamic.jpg" width="270"/> 
 </p>
+
+This provided demo is in main.m script. Please run that code directly.
