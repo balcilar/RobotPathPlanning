@@ -14,6 +14,6 @@ You can add new obstacles or modify the given obstacle to create your own map.
 In sampling based method, we need to generate some certain number of points on to the map which are fall into non occupied region of given map. Then we calculate which node has connection to which nodes. By this way, we obtain the undirectioned graph of generated random points. To generate that points, we can use some sophisticated method to distirbute the nodes all around the map as clever as possible. But in that repository we selected to generate them by just uniformly random. We generated 100 number of nodes which are on the free region of map. there is the given map, generated nodes and their connections.
 
 <p align="center">
-  <img src="Output/map.jpg" width="200"/>  
-  <img src="Output/map_nodes.jpg" width="200"/>  
+  <img src="Output/map.jpg" width="300"/>  
+  <img src="Output/map_nodes.jpg" width="300"/>  
 </p>
