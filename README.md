@@ -15,5 +15,5 @@ In sampling based method, we need to generate some certain number of points on t
 
 <p align="center">
   <img src="Output/map.jpg" width="200"/>  
-  <img src="Outputs/map_nodes.jpg" width="200"/>  
+  <img src="Output/map_nodes.jpg" width="200"/>  
 </p>
