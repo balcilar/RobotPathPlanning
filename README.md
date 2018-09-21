@@ -3,7 +3,7 @@
 In this repository, we briefly presented full source code of Dijkstra, Astar, and Dynamic Programming approach to finding the best route from the starting node to the end node on the 2D graph. We also provide the main script which performs these algorithms on the given map.
 
 ## Map Definiton
-We already provide a sample map creatin in map_definition.m source code. We defined all closed polygon in that maps which shows the obstacles. In the sample map, there are 13 different obstacles whose edges are defined by given x and y coordinates. One sample is shown by followings;
+We already provide a sample map creating in map_definition.m source code. We defined all closed polygon in that maps which shows the obstacles. In the sample map, there are 13 different obstacles whose edges are defined by given x and y coordinates. One sample is shown by followings;
 ```
 map.pgx{1}=[2 8.5 8.5 4 2 2 1 1 2 4 2];
 map.pgy{1}=[8 10 1 3 3 1 1 6 6 5 8];
