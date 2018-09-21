@@ -17,3 +17,18 @@ In sampling based method, we need to generate some certain number of points on t
   <img src="Output/map.jpg" width="300"/>  
   <img src="Output/map_nodes.jpg" width="300"/>  
 </p>
+
+## Path Planning
+
+We tested the mentioned algorithms performance soem certain start and end point. Since we have 100 number of nodes in the graph, we added start and end points as 101th adn 102th node in the map as following code and updated undirected graph.
+```
+startp=[5, 29];
+endp=[29, 20];
+```
+Then we tested that 102 number of noded graph path planning via Dijkstra, Astar and Dynamic Programming. Here is the all three methods' planned path and their costs.
+
+<p align="center">
+  <img src="Output/astar.jpg" width="300"/>  
+  <img src="Output/dijkstra.jpg" width="300"/>  
+  <img src="Output/dynamic.jpg" width="300"/> 
+</p>
